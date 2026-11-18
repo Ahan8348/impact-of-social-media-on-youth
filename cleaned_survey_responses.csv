@@ -1,0 +1,41 @@
+respondent_id,age,gender,occupation,most_used_platform,daily_screen_time,checking_frequency,main_reason,q9_stay_connected,q10_studies_learning,q11_study_distraction,q12_affects_sleep,spend_more_time_than_intended
+R01,19,Male,Student,WhatsApp,1–2 hours,Few times a day,Communication,Agree,Strongly agree,Strongly disagree,Strongly disagree,Disagree
+R02,18,Male,Student,WhatsApp,1–2 hours,Few times a day,Communication,Strongly agree,Agree,Disagree,Strongly disagree,Neutral
+R03,19,Male,Student,LinkedIn,1–2 hours,Few times a day,Communication,Agree,Agree,Neutral,Disagree,Disagree
+R04,20,Male,Student,YouTube,1–2 hours,Few times a day,Studies/Learning,Strongly disagree,Strongly agree,Disagree,Neutral,Neutral
+R05,20,Male,Student,YouTube,1–2 hours,Few times a day,Studies/Learning,Strongly agree,Agree,Neutral,Strongly disagree,Neutral
+R06,19,Female,Student,YouTube,1–2 hours,Few times a day,Studies/Learning,Agree,Agree,Neutral,Neutral,Disagree
+R07,20,Female,Student,YouTube,1–2 hours,Every 2–3 hours,Studies/Learning,Strongly disagree,Neutral,Neutral,Disagree,Agree
+R08,20,Female,Student,Instagram,1–2 hours,Every 2–3 hours,Entertainment,Neutral,Agree,Agree,Neutral,Neutral
+R09,19,Male,Student,Instagram,1–2 hours,Every 2–3 hours,Entertainment,Agree,Agree,Neutral,Agree,Disagree
+R10,20,Male,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Strongly agree,Agree,Neutral,Neutral,Neutral
+R11,18,Male,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Disagree,Agree,Neutral,Neutral,Agree
+R12,19,Female,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Agree,Agree,Agree,Agree,Neutral
+R13,20,Male,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Strongly agree,Agree,Neutral,Neutral,Agree
+R14,20,Male,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Neutral,Agree,Agree,Agree,Neutral
+R15,20,Male,Student,YouTube,3–4 hours,Every 2–3 hours,Entertainment,Agree,Neutral,Neutral,Neutral,Agree
+R16,19,Male,Student,WhatsApp,3–4 hours,Every 2–3 hours,Entertainment,Neutral,Neutral,Agree,Agree,Neutral
+R17,19,Male,Student,Instagram,3–4 hours,Every hour,Entertainment,Strongly agree,Neutral,Agree,Agree,Agree
+R18,20,Female,Student,Instagram,3–4 hours,Every hour,Entertainment,Neutral,Agree,Neutral,Neutral,Agree
+R19,19,Female,Student,Instagram,3–4 hours,Every hour,Entertainment,Disagree,Agree,Agree,Agree,Neutral
+R20,19,Male,Student,Instagram,3–4 hours,Every hour,Entertainment,Agree,Neutral,Neutral,Neutral,Agree
+R21,18,Male,Student,Instagram,3–4 hours,Every hour,Entertainment,Strongly agree,Neutral,Agree,Agree,Neutral
+R22,19,Female,Student,Instagram,3–4 hours,Every hour,Communication,Neutral,Strongly agree,Neutral,Neutral,Disagree
+R23,19,Male,Student,Instagram,3–4 hours,Every hour,Communication,Neutral,Agree,Agree,Agree,Agree
+R24,19,Female,Student,Instagram,3–4 hours,Every hour,Communication,Strongly agree,Agree,Agree,Agree,Neutral
+R25,19,Female,Student,Instagram,3–4 hours,Every hour,Communication,Neutral,Neutral,Neutral,Neutral,Agree
+R26,19,Female,Student,Instagram,3–4 hours,Every hour,Communication,Strongly agree,Neutral,Agree,Agree,Agree
+R27,18,Male,Student,Instagram,3–4 hours,Every hour,Studies/Learning,Strongly agree,Disagree,Agree,Agree,Neutral
+R28,20,Male,Student,Instagram,3–4 hours,Every hour,Studies/Learning,Disagree,Neutral,Neutral,Neutral,Disagree
+R29,21,Male,Student,Instagram,3–4 hours,Almost constantly,Studies/Learning,Strongly agree,Disagree,Agree,Agree,Agree
+R30,19,Male,Student,Instagram,3–4 hours,Almost constantly,Studies/Learning,Strongly disagree,Neutral,Neutral,Neutral,Neutral
+R31,18,Male,Student,Instagram,3–4 hours,Almost constantly,Studies/Learning,Neutral,Agree,Strongly agree,Agree,Strongly agree
+R32,19,Male,Student,YouTube,5–6 hours,Every hour,Entertainment,Neutral,Strongly agree,Agree,Agree,Agree
+R33,19,Male,Student,Instagram,5–6 hours,Every hour,Entertainment,Strongly agree,Neutral,Agree,Agree,Strongly agree
+R34,18,Male,Student,Instagram,5–6 hours,Almost constantly,Entertainment,Disagree,Disagree,Strongly agree,Strongly agree,Agree
+R35,19,Male,Student,Instagram,5–6 hours,Almost constantly,Entertainment,Agree,Neutral,Strongly agree,Agree,Strongly agree
+R36,20,Male,Student,Instagram,5–6 hours,Almost constantly,Entertainment,Agree,Disagree,Strongly agree,Neutral,Agree
+R37,20,Male,Student,Instagram,5–6 hours,Almost constantly,Information/News,Neutral,Strongly disagree,Strongly agree,Agree,Strongly agree
+R38,20,Male,Student,Instagram,More than 6 hours,Almost constantly,Entertainment,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree
+R39,19,Female,Student,Instagram,More than 6 hours,Almost constantly,Entertainment,Agree,Strongly disagree,Agree,Agree,Agree
+R40,19,Male,Student,Instagram,More than 6 hours,Almost constantly,Entertainment,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree
