@@ -56,3 +56,7 @@ Two supervised classification algorithms were trained to predict high study-dist
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/impact-of-social-media-on-youth.git
    cd impact-of-social-media-on-youth
+   pip install -r requirements.txt
+   python eda_visualize.py
+   python train_model.py
+   python predict_impact.py
